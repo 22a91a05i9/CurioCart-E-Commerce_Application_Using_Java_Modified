@@ -8,7 +8,7 @@
 
 ## 📌 Project Overview
 
-CurioCart is a fully functional e-commerce application that allows users to browse products, add them to the cart, and proceed to checkout. The application is developed using Java for the backend and MySQL for database management.
+CurioCart is a fully functional e-commerce application that allows users to browse products, add them to the cart, and proceed to checkout. The application is developed using Java for the backend [...]
 
 ---
 
@@ -72,6 +72,16 @@ Compile and run the `Main.java` file to launch the application.
 
 ---
 
+## 📁 Demo & Resources
+
+- Video demo (local file in repo): `CurioCart (1).mp4`
+- Download / Demo (Google Drive): https://drive.google.com/file/d/1y0OiTiY9QS2wsApPqpTW8wlDfS1Vs2Qm/view
+
+Notes:
+- The Drive link contains a demo video and/or packaged assets you can download to run or preview the application.
+- If you prefer, I can embed the Drive link as a clickable badge or add a short screenshot GIF to the README.
+
+---
 
 ## 📄 License
 
